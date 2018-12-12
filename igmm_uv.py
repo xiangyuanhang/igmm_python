@@ -312,8 +312,4 @@ ax.grid()
 fig.savefig("test.png")
 plt.show()
 
-#plot mu
-mu_list = []
-for j in range(Nsamp):
-    mu_list.append(Samp[j]['mu'])
 

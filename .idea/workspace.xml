@@ -2,1008 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da1b53cf-2c48-4e7e-a9d0-beaa8bc95cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ARSpy-0.4-py3.7.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ARSpy-0.4-py3.7.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ARSpy-0.4-py3.7.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ARSpy-0.4-py3.7.egg-info/installed-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ARSpy-0.4-py3.7.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/ARSpy-0.4-py3.7.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/arspy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/arspy/ars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/arspy/hull.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/arspy/probability_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/arspy/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/arspy/tests/test_ars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/arspy/tests/test_compute_hulls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/arspy/tests/test_compute_segment_prob.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/arspy/tests/test_evaluate_hulls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy-1.1.0.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy-1.1.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy-1.1.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy-1.1.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy-1.1.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy-1.1.0.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy-1.1.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/BENTO_BUILD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/HACKING.rst.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/INSTALL.rst.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/THANKS.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/__config__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_build_utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_build_utils/_fortran.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_distributor_init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_ccallback.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_ccallback_c.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_fpumode.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_gcutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_numpy_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_test_ccallback.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_testutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_threadsafety.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_tmpdirs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/messagestream.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/six.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/tests/test__gcutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/tests/test__testutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/tests/test__threadsafety.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/tests/test__util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/tests/test__version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/tests/test_ccallback.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/tests/test_import_cycles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/tests/test_tmpdirs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/_lib/tests/test_warnings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/_hierarchy.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/_optimal_leaf_ordering.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/_vq.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/hierarchy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/tests/hierarchy_test_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/tests/test_hierarchy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/tests/test_vq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/cluster/vq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/constants/codata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/constants/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/constants/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/constants/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/constants/tests/test_codata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/constants/tests/test_constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/lib_arpack-.3EACCC44R6URYOMHQMYVCKQCOM2QIBWU.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/lib_blas_su.QEQE75KHNLMPCS22K3WRCEACXGLTB6HX.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/lib_test_fo.JF5HTWMUPBXWGAYEBVEJU3OZAHTSVKCT.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libansari.R6EA3HQP5KZ6TAXU4Y4ZVTRPT7UVA53Z.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libbanded5x.YUREFBE7I7SVCEADSLRKXT6OOZGRBSI4.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libbispeu.5N2XSD7URZS4WTOSLTOG4DDMA4HGB46U.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libblkdta00.5GIEOPPZ5HSTP5DAMUKWIW364O4QBFMY.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libchkder.6HLXPVTQJEGRZGLI5DFRMNW3SS76BHP6.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libcobyla2.JEGTSUUFJ7DFXWZN5PAYZTTLBDATC4WD.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libd_odr.KVFHIZPGUGII2ECJE7R2OHXK5HXMWUBQ.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libdcosqb.K4J3XBR4PEETMRHZICUWW4LXG5UONZ34.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libdcosqb.QRGA36MB6CFHWLQN6ETWARR4M4E6P3C2.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libdcsrch.I2AOPDCXAPDRFNPWY55H5UE7XZSU5CVN.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libdet.NGI4SZSHQBJM5NEVUSJQND4WM2GMQE54.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libdfft_sub.H6SHLMT5W26CD2XUAFVQ3LOOJUC4U4T4.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libdfitpack.PJU6IBGOYZCWITNVROHYOQAYNGAXO3HT.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libdgamln.KTXSQTWP7LWG4EZMWBS4LH477BS6ZGYC.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libdop853.6TJTQZW3I3Q3QIDQHEOBEZKJ3NYRXI4B.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libdqag.VX5QPGEJYMIC5JGWBYFC5BHJCBBVPPDV.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libgetbreak.A6HULTPFZ6I2MFB4CVJ5HQKTG6FYIBPY.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/liblbfgsb.B2GDIH5ZLORB7V6SRZRPDJE26PPONKZC.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libmvndst.RBJKFH65GH3A3NKEATRJ523P6WF4AZAG.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libnnls.IXEEHJUCGHJL42YZEM6UIEMROJWXHMLJ.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libopenblas.BNVRK7633HSX7YVO2TADGR4A5KEKXJAW.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libslsqp_op.NNY57ZXZ43A4RH3YWFA7BKHP5PC2K3I5.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libspecfun.BHLTWMBI4EYWDACZN4DQUESSDJRJNGEL.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libvode.4H2RO3B5HKRH6QPBU4GYYKK3YPWS7OUR.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libwrap_dum.43IN5WJ7HGVGKYPFVJK5YQ34OMH3IKLA.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/extra-dll/libwrap_dum.V5FHT5OP45YBBACXAHY3NF5CISQJNFFQ.gfortran-win_amd64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/_fftpack.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/convolve.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/pseudo_diffs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/realtransforms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/fftw_dct.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/fftw_double_ref.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/fftw_single_ref.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/gen_fftw_ref.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/gendata.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/gendata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/test.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/test_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/test_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/test_import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/test_pseudo_diffs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/fftpack/tests/test_real_transforms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_bvp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_dop.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_ivp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_ivp/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_ivp/bdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_ivp/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_ivp/ivp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_ivp/lsoda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_ivp/radau.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_ivp/rk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_ode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_odepack.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_quadpack.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_test_multivariate.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/_test_odeint_banded.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/lsoda.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/odepack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/quadpack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/quadrature.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/tests/_test_multivariate.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/tests/banded5x5.f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/tests/test_banded_ode_solvers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/tests/test_bvp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/tests/test_integrate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/tests/test_ivp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/tests/test_odeint_jac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/tests/test_quadpack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/tests/test_quadrature.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/integrate/vode.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/_bspl.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/_bsplines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/_cubic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/_fitpack.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/_fitpack_impl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/_interpolate.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/_pade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/_ppoly.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/dfitpack.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/fitpack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/fitpack2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/interpnd.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/interpnd_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/interpolate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/interpolate_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/ndgriddata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/polyint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/rbf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/data/bug-1310.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/data/estimate_gradients_hang.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_bsplines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_fitpack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_fitpack2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_gil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_interpnd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_interpolate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_interpolate_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_ndgriddata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_pade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_polyint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_rbf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/interpolate/tests/test_regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/_fortran.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/_test_fortran.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/arffread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/iris.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/missing.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/nodata.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test1.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test2.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test3.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test4.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test5.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test6.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test7.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/data/test8.arff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/arff/tests/test_arffread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/harwell_boeing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/harwell_boeing/_fortran_format_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/harwell_boeing/hb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/harwell_boeing/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/harwell_boeing/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/harwell_boeing/tests/test_fortran_format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/harwell_boeing/tests/test_hb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/idl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/byteordercodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio5_params.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio5_utils.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/mio_utils.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/miobase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/streams.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/afunc.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/bad_miuint32.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/bad_miutf8_array_name.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/big_endian.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/broken_utf8.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/corrupted_zlib_checksum.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/corrupted_zlib_data.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/japanese_utf8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/little_endian.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/logical_sparse.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/malformed1.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/miuint32_for_miint32.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/miutf8_array_name.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/nasty_duplicate_fieldnames.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/one_by_zero_char.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/parabola.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/single_empty_string.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/some_functions.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/sqr.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/test3dmatrix_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/test3dmatrix_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/test3dmatrix_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/test3dmatrix_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/test_empty_struct.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/test_mat4_le_floats.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/test_skip_variable.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testbool_8_WIN64.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcell_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcell_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcell_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcell_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcellnest_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcellnest_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcellnest_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcellnest_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcomplex_4.2c_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcomplex_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcomplex_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcomplex_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testcomplex_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testdouble_4.2c_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testdouble_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testdouble_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testdouble_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testdouble_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testemptycell_5.3_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testemptycell_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testemptycell_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testemptycell_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testfunc_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testhdf5_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testmatrix_4.2c_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testmatrix_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testmatrix_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testmatrix_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testmatrix_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testminus_4.2c_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testminus_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testminus_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testminus_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testminus_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testmulti_4.2c_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testmulti_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testmulti_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testobject_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testobject_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testobject_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testobject_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testonechar_4.2c_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testonechar_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testonechar_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testonechar_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testonechar_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testscalarcell_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparse_4.2c_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparse_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparse_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparse_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparse_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparsecomplex_4.2c_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparsecomplex_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparsecomplex_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparsecomplex_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparsecomplex_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testsparsefloat_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststring_4.2c_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststring_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststring_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststring_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststring_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststringarray_4.2c_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststringarray_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststringarray_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststringarray_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststringarray_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststruct_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststruct_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststruct_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststruct_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststructarr_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststructarr_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststructarr_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststructarr_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststructnest_6.1_SOL2.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststructnest_6.5.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststructnest_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/teststructnest_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testunicode_7.1_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testunicode_7.4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/data/testvec_4_GLNX86.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/gen_mat4files.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/gen_mat5files.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/save_matfile.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_byteordercodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_mio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_mio5_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_mio_funcs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_mio_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_miobase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_pathological.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/matlab/tests/test_streams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/mmio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/netcdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_1d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_2d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_3d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_4d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_5d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_6d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_7d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_8d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_1d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_2d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_3d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_4d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_5d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_6d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_7d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/array_float32_pointer_8d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/example_1.nc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/example_2.nc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/example_3_maskedvals.nc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-3x3d-2i.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-mixed.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-sf8-11x1x10.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-sf8-15x10x22.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-sf8-1x1x1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-sf8-1x1x5.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-sf8-1x1x7.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-sf8-1x3x5.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-si4-11x1x10.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-si4-15x10x22.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-si4-1x1x1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-si4-1x1x5.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-si4-1x1x7.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/fortran-si4-1x3x5.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/invalid_pointer.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/null_pointer.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_byte.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_byte_descr.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_complex32.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_complex64.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_float32.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_float64.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_heap_pointer.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_int16.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_int32.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_int64.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_string.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_uint16.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_uint32.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/scalar_uint64.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_arrays.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_arrays_byte_idl80.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_arrays_replicated.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_arrays_replicated_3d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_inherit.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_pointer_arrays.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_pointer_arrays_replicated.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_pointer_arrays_replicated_3d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_pointers.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_pointers_replicated.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_pointers_replicated_3d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_scalars.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_scalars_replicated.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/struct_scalars_replicated_3d.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/test-44100Hz-2ch-32bit-float-be.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/test-44100Hz-2ch-32bit-float-le.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes-early-eof.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes-incomplete-chunk.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/test-44100Hz-le-1ch-4bytes.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/test-48000Hz-2ch-64bit-float-le-wavex.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/test-8000Hz-le-2ch-1byteu.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/data/various_compressed.sav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_fortran.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_idl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_mmio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_netcdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/tests/test_wavfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/io/wavfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg.pxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_cython_signature_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_decomp_ldl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_decomp_polar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_decomp_qz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_decomp_update.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_expm_frechet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_fblas.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_flapack.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_flinalg.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_generate_pyx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_interpolative.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_interpolative_backend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_matfuncs_inv_ssq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_matfuncs_sqrtm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_procrustes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_sketches.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_solve_toeplitz.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_solvers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/_testutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/blas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/cython_blas.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/cython_blas.pxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/cython_lapack.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/cython_lapack.pxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/decomp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/decomp_cholesky.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/decomp_lu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/decomp_qr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/decomp_schur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/decomp_svd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/flinalg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/interpolative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/lapack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/linalg_version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/matfuncs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/misc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/special_matrices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/src/id_dist/doc/doc.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/src/lapack_deprecations/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/data/carex_15_data.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/data/carex_18_data.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/data/carex_19_data.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/data/carex_20_data.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/data/carex_6_data.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/data/gendare_20170120_data.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_blas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_build.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_cython_blas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_cython_lapack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_decomp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_decomp_cholesky.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_decomp_ldl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_decomp_polar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_decomp_update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_fblas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_interpolative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_lapack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_matfuncs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_procrustes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_sketches.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_solve_toeplitz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_solvers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/tests/test_special_matrices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/ascent.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/doccer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/ecg.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/face.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/pilutil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/3x3x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/3x3x4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/3x4x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/3x4x4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/3x5x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/3x5x4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/4x3x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/4x3x4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/4x4x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/4x4x4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/4x5x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/4x5x4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/5x3x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/5x3x4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/5x4x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/5x4x4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/5x5x3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/5x5x4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/blocks2bit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/box1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/foo3x5x4indexed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/icon_mono.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/icon_mono_flat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/data/pattern4bit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/test_common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/test_doccer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/misc/tests/test_pilutil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/_ctest.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/_ctest_oldapi.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/_cytest.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/_nd_image.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/_ni_docstrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/_ni_label.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/_ni_support.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/fourier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/interpolation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/io.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/measurements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/morphology.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/data/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/data/label_inputs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/data/label_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/data/label_strels.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/dots.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/test_c_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/test_datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/test_filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/test_io.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/test_measurements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/test_ndimage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/test_regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/ndimage/tests/test_splines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/odr/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/odr/__odrpack.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/odr/add_newdocs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/odr/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/odr/odrpack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/odr/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/odr/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/odr/tests/test_odr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_basinhopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_cobyla.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_constraints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_differentiable_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_differentialevolution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_group_columns.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_hessian_update_strategy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_hungarian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lbfgsb.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_linprog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_linprog_ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lsq/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lsq/bvls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lsq/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lsq/dogbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lsq/givens_elimination.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lsq/least_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lsq/lsq_linear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lsq/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lsq/trf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_lsq/trf_linear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_minimize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_minpack.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_nnls.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_numdiff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_remove_redundancy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_root.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_slsqp.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_spectral.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trlib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trlib/_trlib.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trlib/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/canonical_constraint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/equality_constrained_sqp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/minimize_trustregion_constr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/projections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/qp_subproblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/tests/test_canonical_constraint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/tests/test_projections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/tests/test_qp_subproblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_constr/tr_interior_point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_dogleg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_exact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_krylov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_trustregion_ncg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_tstutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/_zeros.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/cobyla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/lbfgsb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/lbfgsb/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/linesearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/minpack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/minpack2.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/moduleTNC.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/nnls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/nonlin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/optimize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/slsqp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test__basinhopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test__differential_evolution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test__linprog_ip_clean_inputs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test__numdiff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test__remove_redundancy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test__root.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test__spectral.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_cobyla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_constraints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_differentiable_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_hessian_update_strategy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_hungarian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_lbfgsb_hessinv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_least_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_linesearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_linprog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_lsq_common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_lsq_linear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_minimize_constrained.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_minpack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_nnls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_nonlin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_optimize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_slsqp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_tnc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_trustregion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_trustregion_exact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_trustregion_krylov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tests/test_zeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/tnc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/optimize/zeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/_arraytools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/_max_len_seq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/_max_len_seq_inner.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/_peak_finding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/_peak_finding_utils.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/_savitzky_golay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/_spectral.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/_upfirdn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/_upfirdn_apply.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/bsplines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/filter_design.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/fir_filter_design.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/lti_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/ltisys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/signaltools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/sigtools.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/spectral.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/spline.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/mpsig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_array_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_cont2discrete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_dltisys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_filter_design.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_fir_filter_design.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_ltisys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_max_len_seq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_peak_finding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_savitzky_golay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_signaltools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_spectral.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_upfirdn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_waveforms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_wavelets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/tests/test_windows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/waveforms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/wavelets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/windows/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/windows/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/signal/windows/windows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/_csparsetools.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/_matrix_io.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/_sparsetools.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/bsr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/compressed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/construct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/coo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/_laplacian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/_min_spanning_tree.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/_reordering.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/_shortest_path.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/_tools.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/_traversal.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/_validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/tests/test_connected_components.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/tests/test_conversions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/tests/test_graph_laplacian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/tests/test_reordering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/tests/test_shortest_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/tests/test_spanning_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csgraph/tests/test_traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/csr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/dia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/dok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/extract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/generate_sparsetools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/lil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/_expm_multiply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/_norm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/_onenormest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/dsolve/SuperLU/License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/dsolve/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/dsolve/_add_newdocs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/dsolve/_superlu.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/dsolve/linsolve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/dsolve/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/dsolve/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/dsolve/tests/test_linsolve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/ARPACK/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/_arpack.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/arpack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/tests/test_arpack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/lobpcg/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/lobpcg/lobpcg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/lobpcg/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/lobpcg/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/lobpcg/tests/test_lobpcg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/eigen/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/_gcrotmk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/_iterative.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/iterative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/lgmres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/lsmr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/lsqr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/minres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/tests/demo_lgmres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/tests/test_gcrotmk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/tests/test_iterative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/tests/test_lgmres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/tests/test_lsmr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/tests/test_lsqr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/tests/test_minres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/tests/test_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/isolve/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/matfuncs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/tests/test_expm_multiply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/tests/test_interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/tests/test_matfuncs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/tests/test_norm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/linalg/tests/test_onenormest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/sparsetools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/spfuncs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/sputils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/data/csc_py2.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/data/csc_py3.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/test_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/test_construct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/test_csc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/test_csr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/test_extract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/test_matrix_io.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/test_sparsetools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/test_spfuncs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/sparse/tests/test_sputils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/_distance_wrap.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/_hausdorff.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/_plotutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/_procrustes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/_spherical_voronoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/_voronoi.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/ckdtree.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/kdtree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/qhull.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/qhull/COPYING.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/cdist-X1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/cdist-X2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/degenerate_pointset.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/iris.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-boolean-inp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-chebyshev-ml-iris.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-chebyshev-ml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-cityblock-ml-iris.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-cityblock-ml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-correlation-ml-iris.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-correlation-ml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-cosine-ml-iris.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-cosine-ml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-double-inp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-euclidean-ml-iris.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-euclidean-ml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-hamming-ml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-jaccard-ml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-minkowski-3.2-ml-iris.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-minkowski-3.2-ml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-minkowski-5.8-ml-iris.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-seuclidean-ml-iris.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-seuclidean-ml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/pdist-spearman-ml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/random-bool-data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/random-double-data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/random-int-data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/random-uint-data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/data/selfdual-4d-polytope.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/test__plotutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/test__procrustes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/test_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/test_hausdorff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/test_kdtree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/test_qhull.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/spatial/tests/test_spherical_voronoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special.pxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_comb.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_ellip_harm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_ellip_harm_2.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_generate_pyx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_logsumexp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_mptestutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_precompute/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_precompute/expn_asy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_precompute/gammainc_asy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_precompute/gammainc_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_precompute/lambertw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_precompute/loggamma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_precompute/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_precompute/struve_convergence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_precompute/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_precompute/zetac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_spherical_bessel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_test_round.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_testutils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_ufuncs.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/_ufuncs_cxx.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/add_newdocs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/cython_special.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/cython_special.pxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/lambertw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/orthogonal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/sf_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/specfun.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/spfun_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/data/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/data/boost.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/data/gsl.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/data/local.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_boxcox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_cdflib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_cython_special.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_digamma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_ellip_harm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_gammainc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_kolmogorov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_lambertw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_loggamma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_logit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_logsumexp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_mpmath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_nan_inputs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_orthogonal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_orthogonal_eval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_owens_t.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_pcf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_precompute_expn_asy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_precompute_gammainc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_precompute_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_round.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_sf_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_sici.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_spence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_spfun_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_sph_harm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_spherical_bessel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_trig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_wrightomega.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/special/tests/test_zeta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_binned_statistic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_continuous_distns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_discrete_distns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_distn_infrastructure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_distr_params.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_multivariate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_stats.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_stats_mstats_common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/_tukeylambda_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/contingency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/distributions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/kde.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/morestats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/mstats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/mstats_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/mstats_extras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/mvn.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/statlib.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/common_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/AtmWtAg.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/SiRstv.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/SmLs01.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/SmLs02.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/SmLs03.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/SmLs04.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/SmLs05.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/SmLs06.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/SmLs07.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/SmLs08.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_anova/SmLs09.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/data/nist_linregress/Norris.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_binned_statistic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_contingency.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_continuous_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_discrete_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_discrete_distns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_distributions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_fit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_kdeoth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_morestats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_mstats_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_mstats_extras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_multivariate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_rank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/tests/test_tukeylambda_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/vonmises.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/draft.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/igmm_uv.py" beforeDir="false" afterPath="$PROJECT_DIR$/igmm_uv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1015,29 +19,34 @@
     <session id="526829416">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="gitignore" value="1" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2130" />
+          <entry key="gitignore" value="14" />
+          <entry key="py" value="9395" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2130" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="9395" />
         </counts>
       </usages-collector>
     </session>
@@ -1047,13 +56,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/igmm_uv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="440">
+              <caret line="318" column="31" lean-forward="true" selection-start-line="318" selection-start-column="31" selection-end-line="318" selection-end-column="31" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <marker date="1542943279225" expanded="true" signature="244:349" ph="..." />
-                <marker date="1542943279225" expanded="true" signature="386:391" ph="..." />
+                <element signature="e#1#18#0" expanded="true" />
+                <marker date="1544604511451" expanded="true" signature="534:629" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -1061,8 +78,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/draft.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="537">
+              <caret line="80" column="15" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ars.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1076,19 +108,38 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Samp[i+1]['s']</find>
+      <find>print(c)</find>
+      <find>lambdaa</find>
+      <find>gamma</find>
+      <find>normal</find>
+      <find>to_add</find>
+      <find>Samp[i+1]['mu']</find>
+      <find>ars</find>
+      <find>pri</find>
+      <find>rep</find>
+      <find>mu_list</find>
+      <find>mu_array</find>
+      <find>print</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/draft.py" />
         <option value="$PROJECT_DIR$/logbetapdf.py" />
+        <option value="$PROJECT_DIR$/draft.py" />
+        <option value="$PROJECT_DIR$/ars.py" />
         <option value="$PROJECT_DIR$/igmm_uv.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -1098,7 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1110,10 +160,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/draft.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/igmm_master_python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -1189,21 +240,30 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="974" y="0" width="897" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.05798687" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23416965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17743702" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28199565" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29067245" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.2946331" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -1214,28 +274,138 @@
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/igmm_uv.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/igmm_uv.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/draft.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logbetapdf.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/igmm_uv.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arspy/hull.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/arspy/ars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="233" selection-start-line="233" selection-end-line="233" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <marker date="1542943279225" expanded="true" signature="244:349" ph="..." />
-            <marker date="1542943279225" expanded="true" signature="386:391" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/draft.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="80" column="15" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/igmm_uv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="318" column="31" lean-forward="true" selection-start-line="318" selection-start-column="31" selection-end-line="318" selection-end-column="31" />
+          <folding>
+            <element signature="e#1#18#0" expanded="true" />
+            <marker date="1544604511451" expanded="true" signature="534:629" ph="..." />
           </folding>
         </state>
       </provider>

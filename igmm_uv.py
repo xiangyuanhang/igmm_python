@@ -316,4 +316,4 @@ plt.show()
 mu_list = []
 for j in range(Nsamp):
     mu_list.append(Samp[j]['mu'])
-mu_array1 = np.array(mu_array1)
+
